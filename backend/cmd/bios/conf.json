@@ -1,0 +1,7 @@
+{
+	"Addr": ":8080",
+    "DB": {
+        "User": "root",
+        "Pass": "root"
+    }
+}

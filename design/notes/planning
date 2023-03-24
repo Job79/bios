@@ -1,0 +1,49 @@
+      May 2022
+Su Mo Tu We Th Fr Sa
+ -  2  3  4  5  6  7
+ 8  9 10 11 12  -  -
+
+# 2
+- Entity relationship diagram
+
+# 3
+- Database design en klassen diagram
+
+# 4
+- Opzetten structuur backend en frontend projecten
+- Backend implementatie genres, rooms en classifications GET API's
+
+# 5
+- Frontend nav bar en design movie list
+
+# 5
+- Backend begin implementatie movie GET
+- Frontend opvragen data api's
+
+# 6
+- Backend implementatie authenticatie
+- Frondend implementatie authenticatie
+
+# 7
+- Backend implementatie movie en showings GET api
+- Frontend afmaken gedeelte user film informatie en details pagina
+
+# 8
+- Backend POST / PUT classifications, rooms, genres en movies API
+
+# 9
+- Backend POST movie en showing API
+
+# 10
+Vrijvragen werk
+- Frontend implementatie beheren movies
+- Frontend implementatie beheren movie showings
+- Afronden backend / frontend
+
+# 11
+Vrijvragen werk
+- Afronden backend / frontend
+- In elkaar zetten verslag
+
+# 12
+- Mogelijk nog kleine dingetjes afronden

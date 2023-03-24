@@ -1,0 +1,28 @@
+1. Als klant wil ik informatie in kunnen zien van de films die in bioscoop draaien zodat ik een film kan uitkiezen.
+- De klant ziet bij een film de naam, description, release datum, en kijkwijzer regels.
+- De klant ziet bij een film een foto. 
+
+2. Als klant wil ik kunnen zien welke films wanneer in de bioscoop spelen zodat ik weet wanneer ik naar de bioscoop kan.
+- De klant kan zien wanneer een bepaalde film in de bioscoop draait.
+- De klant kan inzien hoelang een film duurt.
+- De klant kan inzien in welke zaal deze film draait.
+
+3. Als klant wil ik door alle beschikbare films heen kunnen zoeken zodat ik makkelijk films kan vinden.
+- De klant kan in de frontend door de films heen zoeken en deze aanklikken.
+- De klant ziet tijdens het zoeken de naam en foto van de gevonden film.
+
+4. Als medewerker wil ik toegang hebben tot een beveiligd deel van het systeem zodat ik later informatie kan gaan beheren.
+- De medewerker moet eerst inloggen met een naam en wachtwoord voordat hij in de beveiligde omgeving komt.
+- De wachtwoorden zijn veilig opgeslagen.
+- De medewerker blijft voor een bepaalde tijd ingelogd door middel van een session id.
+- De session ids zijn veilig opgeslagen.
+
+5. Als medewerker wil ik films in het systeem kunnen toevoegen / beheren zodat ik informatie in het systeem kan toevoegen.
+- De medewerker kan een nieuwe film met naam, description, release datum, foto en kijkwijzer regels toevoegen.
+- De medewerker kan deze informatie ook later bewerker.
+- De medewerken kan later de film uit het systeem verwijderen.
+
+6. Als medewerker wil ik een planning van films kunnen bijhouden per zaal, zodat ik deze informatie in het systeem kan beheren.
+- De medewerker kan het aantal zalen in het systeem beheren.
+- De medewerker kan instellen wanneer films worden afgespeeld in de bioscoop.
+- De medewerker kan niet meerdere films tegelijk in 1 zaal laten draaien.
